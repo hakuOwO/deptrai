@@ -1,0 +1,51 @@
+{
+    "total": [
+        {
+            "id": "1035862523",
+            "count": 1
+        },
+        {
+            "id": "1080924891",
+            "count": 0
+        },
+        {
+            "id": "100000545156420",
+            "count": 30
+        }
+    ],
+    "week": [
+        {
+            "id": "1035862523",
+            "count": 0,
+            "name": "Nguyễn Thanh Tâm"
+        },
+        {
+            "id": "1080924891",
+            "count": 0,
+            "name": "Yeukox.YT Mark Sexy Baby Nguyễn Thanh Tâm"
+        },
+        {
+            "id": "100000545156420",
+            "count": 0,
+            "name": "Nguyen Thanh Tam M.M"
+        }
+    ],
+    "day": [
+        {
+            "id": "1035862523",
+            "count": 0,
+            "name": "Nguyễn Thanh Tâm"
+        },
+        {
+            "id": "1080924891",
+            "count": 0,
+            "name": "Yeukox.YT Mark Sexy Baby Nguyễn Thanh Tâm"
+        },
+        {
+            "id": "100000545156420",
+            "count": 0,
+            "name": "Nguyen Thanh Tam M.M"
+        }
+    ],
+    "time": 3
+}

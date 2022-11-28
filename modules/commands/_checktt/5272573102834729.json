@@ -1,0 +1,317 @@
+{
+    "total": [
+        {
+            "id": "100011082881624",
+            "count": 53
+        },
+        {
+            "id": "100064773866822",
+            "count": 1
+        },
+        {
+            "id": "100078977234228",
+            "count": 77
+        },
+        {
+            "id": "100081786813519",
+            "count": 73
+        },
+        {
+            "id": "100082301112064",
+            "count": 903
+        },
+        {
+            "id": "100084526021589",
+            "count": 554
+        },
+        {
+            "id": "100062901343408",
+            "count": 68
+        },
+        {
+            "id": "100082671815508",
+            "count": 145
+        },
+        {
+            "id": "100082148993152",
+            "count": 21
+        },
+        {
+            "id": "100074040295053",
+            "count": 2
+        },
+        {
+            "id": "100062818419428",
+            "count": 17
+        },
+        {
+            "id": "100079533800020",
+            "count": 11
+        },
+        {
+            "id": "100050781072842",
+            "count": 168
+        },
+        {
+            "id": "100067012226873",
+            "count": 4
+        },
+        {
+            "id": "100079824866882",
+            "count": 94
+        },
+        {
+            "id": "100053731539603",
+            "count": 113
+        },
+        {
+            "id": "100078525331408",
+            "count": 22
+        },
+        {
+            "id": "100042843293525",
+            "count": 75
+        },
+        {
+            "id": "100026585003241",
+            "count": 24
+        },
+        {
+            "id": "100072230154239",
+            "count": 59
+        },
+        {
+            "id": "100080087080868",
+            "count": 28
+        },
+        {
+            "id": "100071938350295",
+            "count": 1
+        }
+    ],
+    "week": [
+        {
+            "id": "100011082881624",
+            "count": 0,
+            "name": "Nguyễn Thanh Nhân"
+        },
+        {
+            "id": "100064773866822",
+            "count": 0,
+            "name": "Vũ Trung Kiên"
+        },
+        {
+            "id": "100078977234228",
+            "count": 0,
+            "name": "Phạm Ngọc Linh"
+        },
+        {
+            "id": "100081786813519",
+            "count": 0,
+            "name": "Nguyễn Xuân Lợi"
+        },
+        {
+            "id": "100082301112064",
+            "count": 0,
+            "name": "Lê Tứn"
+        },
+        {
+            "id": "100084526021589",
+            "count": 0,
+            "name": "Nguyễn Văn Xuân Lợi"
+        },
+        {
+            "id": "100062901343408",
+            "count": 0,
+            "name": "Nguyễn Hoàng"
+        },
+        {
+            "id": "100082671815508",
+            "count": 0,
+            "name": "Bùi Xuân Mạnh"
+        },
+        {
+            "id": "100082148993152",
+            "count": 0,
+            "name": "Nguyễn Lợi"
+        },
+        {
+            "id": "100074040295053",
+            "count": 0,
+            "name": "PC Le Tu"
+        },
+        {
+            "id": "100062818419428",
+            "count": 0,
+            "name": "Quynh Anh"
+        },
+        {
+            "id": "100079533800020",
+            "count": 0,
+            "name": "Sang YT Sang"
+        },
+        {
+            "id": "100050781072842",
+            "count": 0,
+            "name": "𓀚𓀚Tao Xin Tự Giới Thiệu Tao Là Bùi Xuân Trường Trùm Rename Mấy Thằng Ngu Rename Dính Chữ M.M XD XL PC Như Mấy Thằng Khuyết Tật Đã Ngu Còn Tự Ái Cần Mọi Kèo Rename Tên K Tự Vì Anh Là Trùm Nên Mấy Em Gái Anh Ưu Tiên Rename Cho Nhé Mấy Thằng Cu Tricker Lỏ Việt Nam Đặt Biệt Hắch Cu Mõm Block Edit Giật Giật Nháy Nháy Bỏ Đi Mà Làm Người Bố Ước Die𓀚𓀚"
+        },
+        {
+            "id": "100067012226873",
+            "count": 0,
+            "name": "Trần Li"
+        },
+        {
+            "id": "100079824866882",
+            "count": 0,
+            "name": "Nguyễn Duy"
+        },
+        {
+            "id": "100053731539603",
+            "count": 0,
+            "name": "Hoàng Viết Quỳnh"
+        },
+        {
+            "id": "100078525331408",
+            "count": 0,
+            "name": "Phạm Thùy Trang"
+        },
+        {
+            "id": "100042843293525",
+            "count": 0,
+            "name": "Thảo Ngân"
+        },
+        {
+            "id": "100026585003241",
+            "count": 0,
+            "name": "Duc Thinh"
+        },
+        {
+            "id": "100072230154239",
+            "count": 0,
+            "name": "Đào Ngọc Quý"
+        },
+        {
+            "id": "100080087080868",
+            "count": 0,
+            "name": "Kim Tuấn Anh"
+        },
+        {
+            "id": "100071938350295",
+            "count": 0,
+            "name": "Le Viet Trung"
+        }
+    ],
+    "day": [
+        {
+            "id": "100011082881624",
+            "count": 0,
+            "name": "Nguyễn Thanh Nhân"
+        },
+        {
+            "id": "100064773866822",
+            "count": 0,
+            "name": "Vũ Trung Kiên"
+        },
+        {
+            "id": "100078977234228",
+            "count": 0,
+            "name": "Phạm Ngọc Linh"
+        },
+        {
+            "id": "100081786813519",
+            "count": 0,
+            "name": "Nguyễn Xuân Lợi"
+        },
+        {
+            "id": "100082301112064",
+            "count": 0,
+            "name": "Lê Tứn"
+        },
+        {
+            "id": "100084526021589",
+            "count": 0,
+            "name": "Nguyễn Văn Xuân Lợi"
+        },
+        {
+            "id": "100062901343408",
+            "count": 0,
+            "name": "Nguyễn Hoàng"
+        },
+        {
+            "id": "100082671815508",
+            "count": 0,
+            "name": "Bùi Xuân Mạnh"
+        },
+        {
+            "id": "100082148993152",
+            "count": 0,
+            "name": "Nguyễn Lợi"
+        },
+        {
+            "id": "100074040295053",
+            "count": 0,
+            "name": "PC Le Tu"
+        },
+        {
+            "id": "100062818419428",
+            "count": 0,
+            "name": "Quynh Anh"
+        },
+        {
+            "id": "100079533800020",
+            "count": 0,
+            "name": "Sang YT Sang"
+        },
+        {
+            "id": "100050781072842",
+            "count": 0,
+            "name": "𓀚𓀚Tao Xin Tự Giới Thiệu Tao Là Bùi Xuân Trường Trùm Rename Mấy Thằng Ngu Rename Dính Chữ M.M XD XL PC Như Mấy Thằng Khuyết Tật Đã Ngu Còn Tự Ái Cần Mọi Kèo Rename Tên K Tự Vì Anh Là Trùm Nên Mấy Em Gái Anh Ưu Tiên Rename Cho Nhé Mấy Thằng Cu Tricker Lỏ Việt Nam Đặt Biệt Hắch Cu Mõm Block Edit Giật Giật Nháy Nháy Bỏ Đi Mà Làm Người Bố Ước Die𓀚𓀚"
+        },
+        {
+            "id": "100067012226873",
+            "count": 0,
+            "name": "Trần Li"
+        },
+        {
+            "id": "100079824866882",
+            "count": 0,
+            "name": "Nguyễn Duy"
+        },
+        {
+            "id": "100053731539603",
+            "count": 0,
+            "name": "Hoàng Viết Quỳnh"
+        },
+        {
+            "id": "100078525331408",
+            "count": 0,
+            "name": "Phạm Thùy Trang"
+        },
+        {
+            "id": "100042843293525",
+            "count": 0,
+            "name": "Thảo Ngân"
+        },
+        {
+            "id": "100026585003241",
+            "count": 0,
+            "name": "Duc Thinh"
+        },
+        {
+            "id": "100072230154239",
+            "count": 0,
+            "name": "Đào Ngọc Quý"
+        },
+        {
+            "id": "100080087080868",
+            "count": 0,
+            "name": "Kim Tuấn Anh"
+        },
+        {
+            "id": "100071938350295",
+            "count": 0,
+            "name": "Le Viet Trung"
+        }
+    ],
+    "time": 3
+}
